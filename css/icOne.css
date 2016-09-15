@@ -9,6 +9,7 @@ html {
 .lorem-ipsum {
   color: blue;
   font-size: 2rem;
+  text-align: center;
 }
 
 .chinese-output-test {
@@ -18,7 +19,7 @@ html {
 
 .numbers {
   color: red;
-  font-size: 2.5rem;
+  font-size: 3rem;
 }
 
 nav {
@@ -29,5 +30,5 @@ nav ul li {
 }
 nav ul li > a {
   color: orange;
-  font-size: 0.5rem;
+  font-size: 1.5rem;
 }
